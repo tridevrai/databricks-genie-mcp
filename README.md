@@ -190,3 +190,8 @@ The server uses the [Databricks SDK](https://pypi.org/project/databricks-sdk/) `
 - [mcp](https://pypi.org/project/mcp/) — MCP Python SDK (FastMCP)
 - [databricks-sdk](https://pypi.org/project/databricks-sdk/) — Databricks workspace and Genie APIs
 - [python-dotenv](https://pypi.org/project/python-dotenv/) — Load `.env` for local runs
+
+## Screen Shot
+
+<img width="989" height="760" alt="image" src="https://github.com/user-attachments/assets/f51b7632-2d33-4795-9888-244e6e9f15fd" />
+
